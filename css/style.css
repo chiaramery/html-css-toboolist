@@ -129,32 +129,32 @@ ul{
 }
 
 .blue{
-    background-color:rgb(4, 139, 193);
+    background-color:hsl(203deg 77% 61%);
     color: white;
 }
 
 .purple{
-    background-color:rgb(100, 3, 126);
+    background-color:hsl(261deg 65% 67%);
     color: white;
 }
 
 .green{
-    background-color:green;
+    background-color:hsl(164deg 41% 58%);
     color: white;
 }
 
 .orange{
-    background-color:orange;
+    background-color:hsl(32deg 85% 59%);
     color: white;
 }
 
 .pink{
-    background-color:pink;
+    background-color:hsl(328deg 57% 61%);
     color: white;
 }
 
 .greenyellow{
-    background-color:greenyellow;
+    background-color:hsl(69deg 59% 49%);
     color: white;
 }
 /* /Main bottons */

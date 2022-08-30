@@ -12,13 +12,28 @@ html{
 body{
     background-color: rgba(173, 216, 230, 0.2);
 }
-.mb{
+
+/* Margins */
+.mb-header{
     margin-bottom: 50px;
 }
 
-/* .mt{
-    margin-top: 50px;
-} */
+.mb{
+    margin-bottom: 30px;
+}
+
+.mt{
+    margin-top: 30px;
+}
+
+.mt-span{
+    margin-top: 10px;
+}
+
+.mb-span{
+    margin-bottom: 30px;
+}
+/* /Margins */
 
 /* Header */
 header{
@@ -77,6 +92,33 @@ header{
 .container{
     padding-left: 50px;
 }
+
+ul{
+    list-style-type: none;
+}
+
+.check{
+    color: green;
+    display: inline-block;
+    background-color: rgb(224, 15, 15);
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+}
+
+.ballot{
+    color: red;
+    display: inline-block;
+    background-color: blue;
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+}
+
 
 /* /Todolist */
 /* /Main */

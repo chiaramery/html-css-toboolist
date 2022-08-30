@@ -121,6 +121,42 @@ ul{
     text-align: center;
 }
 
+/* Main bottons */
+.main-button{
+    padding: 5px; 
+    border-radius: 10px;
+    font-size: 12px;
+}
 
+.blue{
+    background-color:rgb(4, 139, 193);
+    color: white;
+}
+
+.purple{
+    background-color:rgb(100, 3, 126);
+    color: white;
+}
+
+.green{
+    background-color:green;
+    color: white;
+}
+
+.orange{
+    background-color:orange;
+    color: white;
+}
+
+.pink{
+    background-color:pink;
+    color: white;
+}
+
+.greenyellow{
+    background-color:greenyellow;
+    color: white;
+}
+/* /Main bottons */
 /* /Todolist */
 /* /Main */

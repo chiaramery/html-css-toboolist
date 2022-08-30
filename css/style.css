@@ -98,9 +98,9 @@ ul{
 }
 
 .check{
-    color: green;
+    color: hsl(165deg 42% 62%);
     display: inline-block;
-    border: 1px solid green;
+    border: 1px solid hsl(165deg 42% 62%);
     background-color:white;
     border-radius: 50%;
     width: 1.5rem;
@@ -110,9 +110,9 @@ ul{
 }
 
 .ballot{
-    color: red;
+    color: hsl(1deg 77% 57%);
     display: inline-block;
-    border: 1px solid red;
+    border: 1px solid hsl(1deg 77% 57%);
     background-color:white;
     border-radius: 50%;
     width: 1.5rem;

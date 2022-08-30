@@ -60,7 +60,6 @@ header{
     border-color: rgb(0, 183, 255);
 
 }
-
 #button-white{
     background-color: white;
     color: rgba(128, 128, 128, 0.4);
@@ -73,4 +72,11 @@ header{
     line-height: 3px;
     border-color: rgba(173, 216, 230, 0.2);
 }
-/* Main */
+
+/* Todolist */
+.container{
+    padding-left: 50px;
+}
+
+/* /Todolist */
+/* /Main */
